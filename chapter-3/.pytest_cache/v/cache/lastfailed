@@ -1,0 +1,5 @@
+{
+  "sumcubes_test.py::test_answer": true, 
+  "sumcubes_test.py::test_something_that_involves_user_input": true, 
+  "sumcubes_test.py::test_stuff": true
+}
