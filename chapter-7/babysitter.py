@@ -47,11 +47,11 @@ def calculate_pay(beginning, ending):
         minutes_after_bed = ending_minutes
         minutes_before_bed = total_minutes - minutes_after_bed
         #calculate total pay given time before and after bedtime
-        total_pay = hours_after_bed * 1.50 + hours_before_bed * 2.50 + minutes_after_bed/60 * 1.50 + minutes_before_bed/60 * 2.50
-        print "hours before bed: " + str(hours_before_bed)
-        print "hours after bed: " + str(hours_after_bed)
-        print "minutes after bed: " + str(minutes_after_bed)
-        print "minutes before bed: " + str(minutes_before_bed)
+        total_pay = hours_after_bed * 1.50 + hours_before_bed * 2.50 + minutes_after_bed/60.0 * 1.50 + minutes_before_bed/60.0 * 2.50
+        # print "hours before bed: " + str(hours_before_bed)
+        # print "hours after bed: " + str(hours_after_bed)
+        # print "minutes after bed: " + str(minutes_after_bed)
+        # print "minutes before bed: " + str(minutes_before_bed)
 
     #calculate total pay given only time before bedtime
     else:
