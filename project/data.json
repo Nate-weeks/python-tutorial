@@ -1,4 +1,89 @@
-{
+[{
   "name": "nate",
-  "age": "15"
-}
+  "age": "15",
+  "ethnicity": "latino",
+  "somestuff":[{
+    "otherstuff": "im writing some other stuff here",
+    "goodstuff": "im writing some good stuff here"
+  }]
+},{
+  "name": "nate",
+  "age": "15",
+  "ethnicity": "latino",
+  "somestuff":[{
+    "otherstuff": "im writing some other stuff here",
+    "goodstuff": "im writing some good stuff here"
+  }]
+},{
+  "name": "nate",
+  "age": "15",
+  "ethnicity": "latino",
+  "somestuff":[{
+    "otherstuff": "im writing some other stuff here",
+    "goodstuff": "im writing some good stuff here"
+  }]
+},{
+  "name": "nate",
+  "age": "15",
+  "ethnicity": "latino",
+  "somestuff":[{
+    "otherstuff": "im writing some other stuff here",
+    "goodstuff": "im writing some good stuff here"
+  }]
+},{
+  "name": "nate",
+  "age": "15",
+  "ethnicity": "latino",
+  "somestuff":[{
+    "otherstuff": "im writing some other stuff here",
+    "goodstuff": "im writing some good stuff here"
+  }]
+},{
+  "name": "nate",
+  "age": "15",
+  "ethnicity": "latino",
+  "somestuff":[{
+    "otherstuff": "im writing some other stuff here",
+    "goodstuff": "im writing some good stuff here"
+  }]
+},{
+  "name": "nate",
+  "age": "15",
+  "ethnicity": "latino",
+  "somestuff":[{
+    "otherstuff": "im writing some other stuff here",
+    "goodstuff": "im writing some good stuff here"
+  }]
+},{
+  "name": "nate",
+  "age": "15",
+  "ethnicity": "latino",
+  "somestuff":[{
+    "otherstuff": "im writing some other stuff here",
+    "goodstuff": "im writing some good stuff here"
+  }]
+},{
+  "name": "nate",
+  "age": "15",
+  "ethnicity": "latino",
+  "somestuff":[{
+    "otherstuff": "im writing some other stuff here",
+    "goodstuff": "im writing some good stuff here"
+  }]
+},{
+  "name": "nate",
+  "age": "15",
+  "ethnicity": "latino",
+  "somestuff":[{
+    "otherstuff": "im writing some other stuff here",
+    "goodstuff": "im writing some good stuff here"
+  }]
+},{
+  "name": "nate",
+  "age": "15",
+  "ethnicity": "latino",
+  "somestuff":[{
+    "otherstuff": "im writing some other stuff here",
+    "goodstuff": "im writing some good stuff here"
+  }]
+}]
