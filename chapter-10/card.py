@@ -73,4 +73,7 @@ def main():
         score = card.BJValue()
         print "Card Name: %s, Blackjack Value: %s" % (card, score)
 
-main()
+if __name__=='__main__':
+    import doctest
+    doctest.testmod()
+    main()
